@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/summer-internship/static/css/main.4df3a6c4.css",
+    "main.js": "/summer-internship/static/js/main.02e0fa6c.js",
+    "static/media/six.jpg": "/summer-internship/static/media/six.a70c30b41ec068e789dd.jpg",
+    "index.html": "/summer-internship/index.html",
+    "main.4df3a6c4.css.map": "/summer-internship/static/css/main.4df3a6c4.css.map",
+    "main.02e0fa6c.js.map": "/summer-internship/static/js/main.02e0fa6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df3a6c4.css",
+    "static/js/main.02e0fa6c.js"
+  ]
+}
